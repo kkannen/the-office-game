@@ -1,0 +1,72 @@
+
+.profPic{
+    height: 132px;
+    width: 102px;
+    background-size: cover;
+    overflow: hidden;
+    box-shadow: 1px 1px 10px #000a;
+    background-image: url("../img/Michael.png")
+}
+
+#profHeader {
+    min-height: 100px;
+    display:flex;
+    justify-content: space-between;
+    margin: 15px;
+
+}
+
+.description {
+    text-align: left;
+    margin: 15px;
+}
+
+.description > h4 {
+    font-family: 'Courier New', Courier, monospace;
+    display: inline-block;
+    margin-bottom: 0px;
+}
+
+
+#michael {
+    background-image: url("../img/Michael.png")
+}
+
+#ryan {
+    background-image: url("../img/Ryan.png")
+}
+
+#pam {
+    background-image: url("../img/Pam.png")
+}
+
+#phyllis {
+    background-image: url("../img/Phyllis.png")
+}
+
+#stanley {
+    background-image: url("../img/Stanley.png")
+}
+
+#andy {
+    background-image: url("../img/Andy.png")
+}
+
+#jim {
+    background-image: url("../img/Jim.png")
+}
+
+#dwight {
+    background-image: url("../img/Dwight.png")
+}
+
+.profileLogo {
+    height: 100px;
+    width: 100px;
+    opacity: 0.9;
+    background-size: cover;
+    float: right;
+    background-image: url("../img/dmlogo.png")
+}
+
+
